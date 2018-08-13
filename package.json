@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "karma start --single-run",
+    "test-dev": "karma start"
   },
   "repository": {
     "type": "git",
