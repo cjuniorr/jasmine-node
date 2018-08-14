@@ -20,10 +20,13 @@
   },
   "homepage": "https://gitlab.com/cjuniorr/jasmine-node#README",
   "devDependencies": {
+    "browserify": "^16.2.2",
     "jasmine": "^3.2.0",
     "jasmine-core": "^3.2.0",
     "karma": "^3.0.0",
+    "karma-browserify": "^5.3.0",
     "karma-chrome-launcher": "^2.2.0",
-    "karma-jasmine": "^1.1.2"
+    "karma-jasmine": "^1.1.2",
+    "watchify": "^3.11.0"
   }
 }
